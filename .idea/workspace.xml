@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dabd2bc-b349-4a02-8041-3bdd3d565fe3" name="Changes" comment="Hi , This is 2ndhttps://leetcode.com/problems/reverse-string/">
-      <change afterPath="$PROJECT_DIR$/Reversestring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/length.cpp" afterDir="false" />
+    <list default="true" id="2dabd2bc-b349-4a02-8041-3bdd3d565fe3" name="Changes" comment="Hi , This is https://leetcode.com/problems/longest-common-prefix/submissions/1200886762/">
+      <change afterPath="$PROJECT_DIR$/lcp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709757088611</updated>
-      <workItem from="1709757095302" duration="6541000" />
+      <workItem from="1709757095302" duration="9323000" />
     </task>
     <task id="LOCAL-00001" summary="Hi , This is first maang commit">
       <option name="closed" value="true" />
@@ -123,7 +123,31 @@
       <option name="project" value="LOCAL" />
       <updated>1710023147189</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Hi , This is 2ndhttps://leetcode.com/problems/reverse-string/ using python">
+      <option name="closed" value="true" />
+      <created>1710023384332</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710023384332</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Hi , This is 2ndhttps://leetcode.com/problems/reverse-string/ using python by linkedin">
+      <option name="closed" value="true" />
+      <created>1710024001123</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710024001123</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Hi , This is https://leetcode.com/problems/longest-common-prefix/submissions/1200886762/">
+      <option name="closed" value="true" />
+      <created>1710186054460</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710186054460</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +158,10 @@
     <MESSAGE value="Hi , This is first maang commit" />
     <MESSAGE value="Hi , This is first /// https://leetcode.com/problems/length-of-last-word/ commit python solution" />
     <MESSAGE value="Hi , This is 2ndhttps://leetcode.com/problems/reverse-string/" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hi , This is 2ndhttps://leetcode.com/problems/reverse-string/" />
+    <MESSAGE value="Hi , This is 2ndhttps://leetcode.com/problems/reverse-string/ using python" />
+    <MESSAGE value="Hi , This is 2ndhttps://leetcode.com/problems/reverse-string/ using python by linkedin" />
+    <MESSAGE value="Hi , This is https://leetcode.com/problems/longest-common-prefix/submissions/1200886762/" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hi , This is https://leetcode.com/problems/longest-common-prefix/submissions/1200886762/" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
